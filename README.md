@@ -113,9 +113,7 @@ git push origin --delete v1.7
 ---
 
 ## Documentation with Images
-Add images to your README using Markdown syntax.  
-
-```markdown
+Add images to your README:
 ![](images/image1.png)
-```
+
 
